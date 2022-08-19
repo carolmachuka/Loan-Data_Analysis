@@ -33,7 +33,7 @@ The term of loan is in 3 categories: 12,36 and 60 months.
 -	Lender’s yield has a perfect positive correlation of 1 with interest rate hence is the key factor affecting interest rate. High lender’s yield results to an equal high rate of interest for borrowers.
 -	High monthly payment attracts low interest rates of borrowing. Interest rate has a weak negative correlation with original loan amount.
  
-Factors affecting the Loan outcome.
+### Factors affecting the Loan outcome.
 -	Employed and Full time personnel are leading in completed loans. Interestingly, they are also leading in defaulted loans, probably due to large number of borrowers in this category. All the employment status have defaulters, though the defaulters’ proportion of 0.0316 is relatively small
 -	Inquiries are made more by those with low monthly loan payment. However, inquiries for those with completed and defaulted loans spikes especially for those with high monthly payment. This can be attributed to the nature of these  two status.
 
